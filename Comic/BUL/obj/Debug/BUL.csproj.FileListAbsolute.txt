@@ -1,0 +1,40 @@
+E:\Comic\BUL\bin\Debug\BUL.dll
+E:\Comic\BUL\bin\Debug\BUL.pdb
+E:\Comic\BUL\bin\Debug\DAL.dll
+E:\Comic\BUL\bin\Debug\DTO.dll
+E:\Comic\BUL\bin\Debug\DAL.pdb
+E:\Comic\BUL\bin\Debug\DTO.pdb
+E:\Comic\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+E:\Comic\BUL\obj\Debug\BUL.dll
+E:\Comic\BUL\obj\Debug\BUL.pdb
+F:\DBMS\Comic\BUL\bin\Debug\BUL.dll
+F:\DBMS\Comic\BUL\bin\Debug\BUL.pdb
+F:\DBMS\Comic\BUL\bin\Debug\DAL.dll
+F:\DBMS\Comic\BUL\bin\Debug\DTO.dll
+F:\DBMS\Comic\BUL\bin\Debug\DAL.pdb
+F:\DBMS\Comic\BUL\bin\Debug\DTO.pdb
+F:\DBMS\Comic\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+F:\DBMS\Comic\BUL\obj\Debug\BUL.dll
+F:\DBMS\Comic\BUL\obj\Debug\BUL.pdb
+D:\Comic\BUL\bin\Debug\BUL.dll
+D:\Comic\BUL\bin\Debug\BUL.pdb
+D:\Comic\BUL\bin\Debug\DAL.dll
+D:\Comic\BUL\bin\Debug\DTO.dll
+D:\Comic\BUL\bin\Debug\DAL.pdb
+D:\Comic\BUL\bin\Debug\DTO.pdb
+D:\Comic\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+D:\Comic\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+D:\Comic\BUL\obj\Debug\BUL.csproj.CopyComplete
+D:\Comic\BUL\obj\Debug\BUL.dll
+D:\Comic\BUL\obj\Debug\BUL.pdb
+E:\Fresh New\Comic\BUL\bin\Debug\BUL.dll
+E:\Fresh New\Comic\BUL\bin\Debug\BUL.pdb
+E:\Fresh New\Comic\BUL\bin\Debug\DAL.dll
+E:\Fresh New\Comic\BUL\bin\Debug\DTO.dll
+E:\Fresh New\Comic\BUL\bin\Debug\DAL.pdb
+E:\Fresh New\Comic\BUL\bin\Debug\DTO.pdb
+E:\Fresh New\Comic\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+E:\Fresh New\Comic\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+E:\Fresh New\Comic\BUL\obj\Debug\BUL.csproj.CopyComplete
+E:\Fresh New\Comic\BUL\obj\Debug\BUL.dll
+E:\Fresh New\Comic\BUL\obj\Debug\BUL.pdb

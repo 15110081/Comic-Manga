@@ -1,0 +1,22 @@
+E:\Comic\DTO\bin\Debug\DTO.dll
+E:\Comic\DTO\bin\Debug\DTO.pdb
+E:\Comic\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Comic\DTO\obj\Debug\DTO.dll
+E:\Comic\DTO\obj\Debug\DTO.pdb
+F:\DBMS\Comic\DTO\bin\Debug\DTO.dll
+F:\DBMS\Comic\DTO\bin\Debug\DTO.pdb
+F:\DBMS\Comic\DTO\obj\Debug\DTO.dll
+F:\DBMS\Comic\DTO\obj\Debug\DTO.pdb
+F:\DBMS\Comic\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Comic\DTO\bin\Debug\DTO.dll
+D:\Comic\DTO\bin\Debug\DTO.pdb
+D:\Comic\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Comic\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Comic\DTO\obj\Debug\DTO.dll
+D:\Comic\DTO\obj\Debug\DTO.pdb
+E:\Fresh New\Comic\DTO\bin\Debug\DTO.dll
+E:\Fresh New\Comic\DTO\bin\Debug\DTO.pdb
+E:\Fresh New\Comic\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Fresh New\Comic\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Fresh New\Comic\DTO\obj\Debug\DTO.dll
+E:\Fresh New\Comic\DTO\obj\Debug\DTO.pdb

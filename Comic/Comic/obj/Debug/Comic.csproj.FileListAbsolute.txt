@@ -1,0 +1,155 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\bin\Debug\Comic.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\bin\Debug\Comic.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\bin\Debug\Comic.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Comic\obj\Debug\Comic.pdb
+E:\Comic\Comic\bin\Debug\Comic.exe.config
+E:\Comic\Comic\obj\Debug\Comic.exe
+E:\Comic\Comic\obj\Debug\Comic.pdb
+E:\Comic\Comic\bin\Debug\Comic.exe
+E:\Comic\Comic\bin\Debug\Comic.pdb
+E:\Comic\Comic\obj\Debug\Comic.csprojResolveAssemblyReference.cache
+E:\Comic\Comic\obj\Debug\Comic.Form1.resources
+E:\Comic\Comic\obj\Debug\Comic.Properties.Resources.resources
+E:\Comic\Comic\obj\Debug\Comic.csproj.GenerateResource.Cache
+E:\Comic\Comic\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Comic\Comic\bin\Debug\MetroFramework.dll
+E:\Comic\Comic\obj\Debug\Comic.mainLogin.resources
+E:\Comic\Comic\obj\Debug\Comic.mainComic.resources
+E:\Comic\Comic\obj\Debug\Comic.splashscreen.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Complete.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Details.resources
+E:\Comic\Comic\obj\Debug\Comic.page_History.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Home.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Popular.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Ratings.resources
+E:\Comic\Comic\obj\Debug\Comic.page_Updating.resources
+E:\Comic\Comic\obj\Debug\Comic.formRegister.resources
+E:\Comic\Comic\obj\Debug\Comic.formAdmin.resources
+E:\Comic\Comic\obj\Debug\Comic.formFPass.resources
+E:\Comic\Comic\obj\Debug\Comic.Store.resources
+E:\Comic\Comic\bin\Debug\BUL.dll
+E:\Comic\Comic\bin\Debug\DTO.dll
+E:\Comic\Comic\bin\Debug\BUL.pdb
+E:\Comic\Comic\bin\Debug\DTO.pdb
+E:\Comic\Comic\obj\Debug\Comic.ucMainComic.ucProgressBar.resources
+E:\Comic\Comic\bin\Debug\DAL.dll
+E:\Comic\Comic\bin\Debug\DAL.pdb
+E:\Comic\Comic\obj\Debug\Comic.ucMainComic.page_DetailsComic.resources
+E:\Comic\Comic\obj\Debug\Comic.DetailsComic.resources
+F:\DBMS\Comic\Comic\bin\Debug\Comic.exe.config
+F:\DBMS\Comic\Comic\bin\Debug\Comic.exe
+F:\DBMS\Comic\Comic\bin\Debug\Comic.pdb
+F:\DBMS\Comic\Comic\bin\Debug\BUL.dll
+F:\DBMS\Comic\Comic\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\DBMS\Comic\Comic\bin\Debug\DAL.dll
+F:\DBMS\Comic\Comic\bin\Debug\DTO.dll
+F:\DBMS\Comic\Comic\bin\Debug\MetroFramework.dll
+F:\DBMS\Comic\Comic\bin\Debug\BUL.pdb
+F:\DBMS\Comic\Comic\bin\Debug\DAL.pdb
+F:\DBMS\Comic\Comic\bin\Debug\DTO.pdb
+F:\DBMS\Comic\Comic\obj\Debug\Comic.csprojResolveAssemblyReference.cache
+F:\DBMS\Comic\Comic\obj\Debug\Comic.DetailsComic.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.Form1.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.formAdmin.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.formFPass.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.formRegister.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.mainComic.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.mainLogin.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Complete.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Details.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.ucMainComic.page_DetailsComic.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_History.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Home.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Popular.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Ratings.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.page_Updating.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.Properties.Resources.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.splashscreen.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.Store.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.ucMainComic.ucProgressBar.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.csproj.GenerateResource.Cache
+F:\DBMS\Comic\Comic\obj\Debug\Comic.exe
+F:\DBMS\Comic\Comic\obj\Debug\Comic.pdb
+F:\DBMS\Comic\Comic\obj\Debug\Comic.ucFormAdmin.TreeViewListView.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.ReadComic.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.Connection.resources
+F:\DBMS\Comic\Comic\obj\Debug\Comic.ucFormAdmin.Subcontractor.resources
+D:\Comic\Comic\obj\Debug\Comic.csprojResolveAssemblyReference.cache
+D:\Comic\Comic\obj\Debug\Comic.exe
+D:\Comic\Comic\obj\Debug\Comic.pdb
+D:\Comic\Comic\bin\Debug\Comic.exe.config
+D:\Comic\Comic\bin\Debug\Comic.exe
+D:\Comic\Comic\bin\Debug\Comic.pdb
+D:\Comic\Comic\bin\Debug\BUL.dll
+D:\Comic\Comic\bin\Debug\DAL.dll
+D:\Comic\Comic\bin\Debug\DTO.dll
+D:\Comic\Comic\bin\Debug\BUL.pdb
+D:\Comic\Comic\bin\Debug\DAL.pdb
+D:\Comic\Comic\bin\Debug\DTO.pdb
+D:\Comic\Comic\obj\Debug\Comic.Connection.resources
+D:\Comic\Comic\obj\Debug\Comic.DetailsComic.resources
+D:\Comic\Comic\obj\Debug\Comic.Form1.resources
+D:\Comic\Comic\obj\Debug\Comic.formAdmin.resources
+D:\Comic\Comic\obj\Debug\Comic.formFPass.resources
+D:\Comic\Comic\obj\Debug\Comic.formRegister.resources
+D:\Comic\Comic\obj\Debug\Comic.mainComic.resources
+D:\Comic\Comic\obj\Debug\Comic.mainLogin.resources
+D:\Comic\Comic\obj\Debug\Comic.ReadComic.resources
+D:\Comic\Comic\obj\Debug\Comic.ucFormAdmin.Subcontractor.resources
+D:\Comic\Comic\obj\Debug\Comic.ucFormAdmin.TreeViewListView.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Complete.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Details.resources
+D:\Comic\Comic\obj\Debug\Comic.ucMainComic.page_DetailsComic.resources
+D:\Comic\Comic\obj\Debug\Comic.page_History.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Home.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Popular.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Ratings.resources
+D:\Comic\Comic\obj\Debug\Comic.page_Updating.resources
+D:\Comic\Comic\obj\Debug\Comic.Properties.Resources.resources
+D:\Comic\Comic\obj\Debug\Comic.splashscreen.resources
+D:\Comic\Comic\obj\Debug\Comic.Store.resources
+D:\Comic\Comic\obj\Debug\Comic.csproj.GenerateResource.cache
+D:\Comic\Comic\obj\Debug\Comic.csproj.CoreCompileInputs.cache
+D:\Comic\Comic\obj\Debug\Comic.csproj.CopyComplete
+E:\Fresh New\Comic\Comic\bin\Debug\Comic.exe.config
+E:\Fresh New\Comic\Comic\bin\Debug\Comic.exe
+E:\Fresh New\Comic\Comic\bin\Debug\Comic.pdb
+E:\Fresh New\Comic\Comic\bin\Debug\BUL.dll
+E:\Fresh New\Comic\Comic\bin\Debug\DAL.dll
+E:\Fresh New\Comic\Comic\bin\Debug\DTO.dll
+E:\Fresh New\Comic\Comic\bin\Debug\BUL.pdb
+E:\Fresh New\Comic\Comic\bin\Debug\DAL.pdb
+E:\Fresh New\Comic\Comic\bin\Debug\DTO.pdb
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.csprojResolveAssemblyReference.cache
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.Connection.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.DetailsComic.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.Form1.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.formAdmin.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.formFPass.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.formRegister.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.mainComic.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.mainLogin.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.ReadComic.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.ucFormAdmin.Subcontractor.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.ucFormAdmin.TreeViewListView.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Complete.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Details.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.ucMainComic.page_DetailsComic.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_History.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Home.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Popular.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Ratings.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.page_Updating.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.Properties.Resources.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.splashscreen.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.Store.resources
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.csproj.GenerateResource.cache
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.csproj.CoreCompileInputs.cache
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.csproj.CopyComplete
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.exe
+E:\Fresh New\Comic\Comic\obj\Debug\Comic.pdb

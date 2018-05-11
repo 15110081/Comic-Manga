@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{673F67E1-9DAE-42DD-9B4C-69B3562B8077}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Comic</RootNamespace>
+    <AssemblyName>Comic</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>G:\do an 1\dll\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>G:\do an 1\dll\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetailsComic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailsComic.Designer.cs">
+      <DependentUpon>DetailsComic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdmin.Designer.cs">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formFPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formFPass.Designer.cs">
+      <DependentUpon>formFPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRegister.Designer.cs">
+      <DependentUpon>formRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainComic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainComic.Designer.cs">
+      <DependentUpon>mainComic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainLogin.Designer.cs">
+      <DependentUpon>mainLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadComic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadComic.Designer.cs">
+      <DependentUpon>ReadComic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFormAdmin\Subcontractor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFormAdmin\Subcontractor.Designer.cs">
+      <DependentUpon>Subcontractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFormAdmin\TreeViewListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFormAdmin\TreeViewListView.Designer.cs">
+      <DependentUpon>TreeViewListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Complete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Complete.Designer.cs">
+      <DependentUpon>page_Complete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Details.Designer.cs">
+      <DependentUpon>page_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_DetailsComic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_DetailsComic.Designer.cs">
+      <DependentUpon>page_DetailsComic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_History.Designer.cs">
+      <DependentUpon>page_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Home.Designer.cs">
+      <DependentUpon>page_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Popular.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Popular.Designer.cs">
+      <DependentUpon>page_Popular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Ratings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Ratings.Designer.cs">
+      <DependentUpon>page_Ratings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainComic\page_Updating.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainComic\page_Updating.Designer.cs">
+      <DependentUpon>page_Updating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="splashscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashscreen.Designer.cs">
+      <DependentUpon>splashscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFormAdmin\Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFormAdmin\Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailsComic.resx">
+      <DependentUpon>DetailsComic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAdmin.resx">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formFPass.resx">
+      <DependentUpon>formFPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRegister.resx">
+      <DependentUpon>formRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainComic.resx">
+      <DependentUpon>mainComic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainLogin.resx">
+      <DependentUpon>mainLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReadComic.resx">
+      <DependentUpon>ReadComic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFormAdmin\Subcontractor.resx">
+      <DependentUpon>Subcontractor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFormAdmin\TreeViewListView.resx">
+      <DependentUpon>TreeViewListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Complete.resx">
+      <DependentUpon>page_Complete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Details.resx">
+      <DependentUpon>page_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_DetailsComic.resx">
+      <DependentUpon>page_DetailsComic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_History.resx">
+      <DependentUpon>page_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Home.resx">
+      <DependentUpon>page_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Popular.resx">
+      <DependentUpon>page_Popular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Ratings.resx">
+      <DependentUpon>page_Ratings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainComic\page_Updating.resx">
+      <DependentUpon>page_Updating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="splashscreen.resx">
+      <DependentUpon>splashscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFormAdmin\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-chevron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-chevron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-in .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-button-of-three-horizontal-lines.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\column.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUL\BUL.csproj">
+      <Project>{0f9d5e63-2b94-4c39-923a-a7c721bf22ec}</Project>
+      <Name>BUL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{1E0A90A0-294E-4EE7-89A1-4750769CBBF6}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{3666e435-3c71-4f78-9910-f03ab40a56d2}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fairytail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\167964-OVVF5E-82.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\physics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\physics %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
